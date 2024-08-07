@@ -1,0 +1,319 @@
+[
+  {
+    "name": "Push-Up",
+    "muscleGroup": "Chest",
+    "difficulty": "Beginner",
+    "description": "A basic upper body exercise that strengthens the chest, shoulders, and triceps.",
+    "instructions": [
+      "Start in a plank position with hands shoulder-width apart.",
+      "Lower your body until your chest nearly touches the ground.",
+      "Push back up to the starting position."
+    ],
+    "tips": [
+      "Keep your body straight throughout the movement.",
+      "Inhale as you lower yourself, exhale as you push up."
+    ]
+  },
+  {
+    "name": "Squat",
+    "muscleGroup": "Legs",
+    "difficulty": "Beginner",
+    "description": "A lower body exercise that targets the quadriceps, hamstrings, and glutes.",
+    "instructions": [
+      "Stand with feet shoulder-width apart.",
+      "Lower your hips back and down, as if sitting in a chair.",
+      "Keep your chest up and knees behind your toes.",
+      "Push through your heels to return to the starting position."
+    ],
+    "tips": [
+      "Keep your back straight and core engaged.",
+      "Inhale as you lower down, exhale as you rise."
+    ]
+  },
+  {
+    "name": "Plank",
+    "muscleGroup": "Core",
+    "difficulty": "Intermediate",
+    "description": "An isometric exercise that strengthens the core, shoulders, and back.",
+    "instructions": [
+      "Start in a forearm plank position, with elbows directly under shoulders.",
+      "Keep your body straight from head to heels.",
+      "Hold the position for the desired amount of time."
+    ],
+    "tips": [
+      "Engage your core and glutes to maintain a straight line.",
+      "Breathe steadily throughout the exercise."
+    ]
+  },
+  {
+    "name": "Deadlift",
+    "muscleGroup": "Back",
+    "difficulty": "Advanced",
+    "description": "A compound lift that works the lower back, glutes, hamstrings, and traps.",
+    "instructions": [
+      "Stand with feet hip-width apart, barbell on the ground in front of you.",
+      "Hinge at your hips and knees to grab the bar with a shoulder-width grip.",
+      "Lift the bar by straightening your hips and knees, keeping the bar close to your body.",
+      "Lower the bar back to the ground with control."
+    ],
+    "tips": [
+      "Keep your back flat and chest up.",
+      "Inhale before lifting, exhale as you stand."
+    ]
+  },
+  {
+    "name": "Bicep Curl",
+    "muscleGroup": "Arms",
+    "difficulty": "Beginner",
+    "description": "An isolation exercise that targets the biceps.",
+    "instructions": [
+      "Stand with feet shoulder-width apart, holding dumbbells at your sides.",
+      "Curl the weights towards your shoulders while keeping your elbows stationary.",
+      "Lower the weights back down with control."
+    ],
+    "tips": [
+      "Avoid swinging the weights; focus on muscle contraction.",
+      "Exhale as you lift, inhale as you lower."
+    ]
+  },
+  {
+    "name": "Lunge",
+    "muscleGroup": "Legs",
+    "difficulty": "Beginner",
+    "description": "A versatile lower body exercise that works the quadriceps, hamstrings, and glutes.",
+    "instructions": [
+      "Stand with feet together, step one leg forward and lower your hips.",
+      "Bend both knees to 90 degrees, keeping your front knee behind your toes.",
+      "Push through your front heel to return to the starting position."
+    ],
+    "tips": [
+      "Keep your torso upright.",
+      "Inhale as you lower down, exhale as you stand back up."
+    ]
+  },
+  {
+    "name": "Bench Press",
+    "muscleGroup": "Chest",
+    "difficulty": "Intermediate",
+    "description": "A compound upper body exercise targeting the chest, shoulders, and triceps.",
+    "instructions": [
+      "Lie on a bench with feet flat on the ground.",
+      "Grip the barbell with hands slightly wider than shoulder-width.",
+      "Lower the bar to your chest, then press it back up."
+    ],
+    "tips": [
+      "Keep your elbows slightly tucked.",
+      "Exhale as you press the bar up, inhale as you lower it."
+    ]
+  },
+  {
+    "name": "Shoulder Press",
+    "muscleGroup": "Shoulders",
+    "difficulty": "Intermediate",
+    "description": "An exercise that targets the shoulders and upper arms.",
+    "instructions": [
+      "Sit or stand with dumbbells at shoulder height.",
+      "Press the weights overhead until arms are fully extended.",
+      "Lower the weights back to the starting position."
+    ],
+    "tips": [
+      "Keep your core tight and back straight.",
+      "Exhale as you press up, inhale as you lower."
+    ]
+  },
+  {
+    "name": "Lat Pulldown",
+    "muscleGroup": "Back",
+    "difficulty": "Intermediate",
+    "description": "A back exercise that targets the latissimus dorsi and biceps.",
+    "instructions": [
+      "Sit at a lat pulldown machine with a wide grip on the bar.",
+      "Pull the bar down to your chest, squeezing your shoulder blades together.",
+      "Slowly return the bar to the starting position."
+    ],
+    "tips": [
+      "Avoid swinging your body.",
+      "Exhale as you pull down, inhale as you release."
+    ]
+  },
+  {
+    "name": "Tricep Dips",
+    "muscleGroup": "Arms",
+    "difficulty": "Intermediate",
+    "description": "An exercise targeting the triceps, shoulders, and chest.",
+    "instructions": [
+      "Position your hands on a bench behind you with feet extended.",
+      "Lower your body by bending your elbows.",
+      "Push back up to the starting position."
+    ],
+    "tips": [
+      "Keep your elbows close to your body.",
+      "Exhale as you push up, inhale as you lower."
+    ]
+  },
+  {
+    "name": "Pull-Up",
+    "muscleGroup": "Back",
+    "difficulty": "Advanced",
+    "description": "An upper body exercise that primarily targets the back and biceps.",
+    "instructions": [
+      "Hang from a bar with an overhand grip, hands shoulder-width apart.",
+      "Pull yourself up until your chin is above the bar.",
+      "Lower yourself back down with control."
+    ],
+    "tips": [
+      "Engage your core and avoid swinging.",
+      "Exhale as you pull up, inhale as you lower."
+    ]
+  },
+  {
+    "name": "Leg Press",
+    "muscleGroup": "Legs",
+    "difficulty": "Intermediate",
+    "description": "A lower body exercise targeting the quadriceps, hamstrings, and glutes.",
+    "instructions": [
+      "Sit on a leg press machine with feet shoulder-width apart on the platform.",
+      "Push the platform away by extending your legs.",
+      "Slowly return to the starting position."
+    ],
+    "tips": [
+      "Keep your feet flat and knees in line with your toes.",
+      "Exhale as you push, inhale as you return."
+    ]
+  },
+  {
+    "name": "Leg Raise",
+    "muscleGroup": "Core",
+    "difficulty": "Intermediate",
+    "description": "An exercise that targets the lower abdominal muscles.",
+    "instructions": [
+      "Lie on your back with legs straight.",
+      "Lift your legs towards the ceiling, keeping them straight.",
+      "Slowly lower your legs back down without touching the ground."
+    ],
+    "tips": [
+      "Keep your lower back pressed into the floor.",
+      "Exhale as you lift, inhale as you lower."
+    ]
+  },
+  {
+    "name": "Calf Raise",
+    "muscleGroup": "Legs",
+    "difficulty": "Beginner",
+    "description": "An exercise that targets the calf muscles.",
+    "instructions": [
+      "Stand with feet shoulder-width apart, toes pointed forward.",
+      "Raise your heels off the ground, balancing on the balls of your feet.",
+      "Lower your heels back to the ground."
+    ],
+    "tips": [
+      "Keep your legs straight.",
+      "Exhale as you lift, inhale as you lower."
+    ]
+  },
+  {
+    "name": "Chest Fly",
+    "muscleGroup": "Chest",
+    "difficulty": "Intermediate",
+    "description": "An isolation exercise that targets the pectoral muscles.",
+    "instructions": [
+      "Lie on a bench with dumbbells in hand, arms extended above chest.",
+      "Lower the dumbbells to the sides, keeping a slight bend in the elbows.",
+      "Bring the dumbbells back together above your chest."
+    ],
+    "tips": [
+      "Keep your elbows slightly bent throughout.",
+      "Exhale as you bring the weights together, inhale as you lower."
+    ]
+  },
+  {
+    "name": "Seated Row",
+    "muscleGroup": "Back",
+    "difficulty": "Intermediate",
+    "description": "An exercise that targets the back muscles, particularly the rhomboids and lats.",
+    "instructions": [
+      "Sit at a cable row machine with feet on the footrests.",
+      "Pull the handle towards your torso, squeezing your shoulder blades together.",
+      "Slowly return to the starting position."
+    ],
+    "tips": [
+      "Keep your back straight and core engaged.",
+      "Exhale as you pull, inhale as you return."
+    ]
+  },
+  {
+    "name": "Russian Twist",
+    "muscleGroup": "Core",
+    "difficulty": "Intermediate",
+    "description": "An exercise that targets the oblique muscles.",
+    "instructions": [
+      "Sit on the ground with knees bent, lean back slightly.",
+      "Hold a weight or a medicine ball, twist your torso to one side, then the other.",
+      "Keep your core engaged and back straight."
+    ],
+    "tips": [
+      "Move slowly and with control.",
+      "Exhale as you twist, inhale as you return to center."
+    ]
+  },
+  {
+    "name": "Burpee",
+    "muscleGroup": "Full Body",
+    "difficulty": "Advanced",
+    "description": "A full-body exercise that combines a squat, push-up, and jump.",
+    "instructions": [
+      "Start standing, drop into a squat and place your hands on the ground.",
+      "Jump your feet back into a plank position and perform a push-up.",
+      "Jump your feet back towards your hands, then jump into the air."
+    ],
+    "tips": [
+      "Keep your core tight throughout the movement.",
+      "Exhale as you jump, inhale as you lower."
+    ]
+  },
+  {
+    "name": "Bicycle Crunch",
+    "muscleGroup": "Core",
+    "difficulty": "Intermediate",
+    "description": "An exercise that targets the abdominal muscles, particularly the obliques.",
+    "instructions": [
+      "Lie on your back with hands behind your head.",
+      "Lift your knees to 90 degrees, bring opposite elbow to opposite knee.",
+      "Alternate sides, mimicking a pedaling motion."
+    ],
+    "tips": [
+      "Keep your lower back pressed into the floor.",
+      "Exhale as you twist, inhale as you switch sides."
+    ]
+  },
+  {
+    "name": "Mountain Climber",
+    "muscleGroup": "Core",
+    "difficulty": "Intermediate",
+    "description": "A full-body exercise that primarily targets the core muscles.",
+    "instructions": [
+      "Start in a plank position.",
+      "Bring one knee towards your chest, then switch legs.",
+      "Continue alternating legs in a running motion."
+    ],
+    "tips": [
+      "Keep your core tight and back straight.",
+      "Breathe steadily throughout the exercise."
+    ]
+  },
+  {
+    "name": "Dumbbell Pullover",
+    "muscleGroup": "Chest",
+    "difficulty": "Intermediate",
+    "description": "An exercise targeting the chest and back muscles.",
+    "instructions": [
+      "Lie on a bench with a dumbbell in both hands.",
+      "Lower the weight behind your head, keeping your elbows slightly bent.",
+      "Pull the weight back over your chest."
+    ],
+    "tips": [
+      "Keep your core engaged and back flat on the bench.",
+      "Exhale as you pull the weight up, inhale as you lower."
+    ]
+  }
+]

@@ -1,0 +1,668 @@
+[
+  {
+    "name": "Chicken Curry",
+    "cuisine": "Indian",
+    "mealType": "Dinner",
+    "dietaryNeeds": "Non-Vegetarian",
+    "ingredients": [
+      "Chicken",
+      "Onions",
+      "Garlic",
+      "Ginger",
+      "Tomatoes",
+      "Coconut milk",
+      "Curry powder",
+      "Salt",
+      "Black pepper",
+      "Cilantro"
+    ],
+    "instructions": [
+      "Sauté onions, garlic, and ginger in a pan.",
+      "Add chicken and cook until browned.",
+      "Stir in tomatoes and curry powder, and cook for a few minutes.",
+      "Add coconut milk and simmer until chicken is cooked through.",
+      "Season with salt and black pepper.",
+      "Garnish with cilantro before serving."
+    ],
+    "nutritionalInfo": {
+      "calories": 450,
+      "protein": "30g",
+      "fat": "25g",
+      "carbohydrates": "20g"
+    },
+    "substitutions": [
+      "Use vegetable broth instead of coconut milk for a lighter option.",
+      "Replace chicken with tofu for a vegetarian version."
+    ],
+    "personalizedSuggestions": [
+      "Serve with basmati rice or naan bread.",
+      "Top with a dollop of yogurt for added creaminess."
+    ],
+    "mealPlanning": {
+      "groceryList": [
+        "Chicken",
+        "Onions",
+        "Garlic",
+        "Ginger",
+        "Tomatoes",
+        "Coconut milk",
+        "Curry powder",
+        "Salt",
+        "Black pepper",
+        "Cilantro"
+      ]
+    }
+  },
+  {
+    "name": "Margarita Pizza",
+    "cuisine": "Italian",
+    "mealType": "Dinner",
+    "dietaryNeeds": "Vegetarian",
+    "ingredients": [
+      "Pizza dough",
+      "Tomato sauce",
+      "Mozzarella cheese",
+      "Fresh basil",
+      "Olive oil",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Preheat oven to 475°F (245°C).",
+      "Roll out pizza dough and spread tomato sauce over the top.",
+      "Sprinkle with mozzarella cheese.",
+      "Bake for 12-15 minutes, or until crust is golden and cheese is melted.",
+      "Top with fresh basil leaves and drizzle with olive oil.",
+      "Season with salt and black pepper."
+    ],
+    "nutritionalInfo": {
+      "calories": 300,
+      "protein": "15g",
+      "fat": "12g",
+      "carbohydrates": "35g"
+    },
+    "substitutions": [
+      "Use gluten-free pizza dough if needed.",
+      "Add additional toppings like mushrooms or peppers."
+    ],
+    "personalizedSuggestions": [
+      "Pair with a side salad.",
+      "Add a sprinkle of Parmesan cheese for extra flavor."
+    ],
+    "mealPlanning": {
+      "groceryList": [
+        "Pizza dough",
+        "Tomato sauce",
+        "Mozzarella cheese",
+        "Fresh basil",
+        "Olive oil",
+        "Salt",
+        "Black pepper"
+      ]
+    }
+  },
+  {
+    "name": "Beef Tacos",
+    "cuisine": "Mexican",
+    "mealType": "Dinner",
+    "dietaryNeeds": "Non-Vegetarian",
+    "ingredients": [
+      "Ground beef",
+      "Taco seasoning",
+      "Taco shells",
+      "Lettuce",
+      "Tomatoes",
+      "Cheddar cheese",
+      "Sour cream"
+    ],
+    "instructions": [
+      "Cook ground beef in a skillet with taco seasoning.",
+      "Warm taco shells in the oven.",
+      "Fill taco shells with cooked beef and top with lettuce, tomatoes, and cheese.",
+      "Serve with a dollop of sour cream."
+    ],
+    "nutritionalInfo": {
+      "calories": 400,
+      "protein": "20g",
+      "fat": "25g",
+      "carbohydrates": "30g"
+    },
+    "substitutions": [
+      "Ground beef can be substituted with ground turkey or tofu.",
+      "Taco shells can be replaced with lettuce wraps for a low-carb option."
+    ],
+    "personalizedSuggestions": [
+      "Add a side of guacamole.",
+      "Top with fresh cilantro for extra flavor."
+    ],
+    "mealPlanning": {
+      "groceryList": [
+        "Ground beef",
+        "Taco seasoning",
+        "Taco shells",
+        "Lettuce",
+        "Tomatoes",
+        "Cheddar cheese",
+        "Sour cream"
+      ]
+    }
+  },
+  {
+    "name": "Vegetable Soup",
+    "cuisine": "American",
+    "mealType": "Lunch",
+    "dietaryNeeds": "Vegetarian",
+    "ingredients": [
+      "Carrots",
+      "Celery",
+      "Potatoes",
+      "Tomatoes",
+      "Vegetable broth",
+      "Garlic",
+      "Onions",
+      "Bay leaves",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Chop vegetables into bite-sized pieces.",
+      "Sauté garlic and onions in a pot.",
+      "Add carrots, celery, and potatoes, and cook for a few minutes.",
+      "Pour in vegetable broth and add tomatoes and bay leaves.",
+      "Simmer until vegetables are tender.",
+      "Season with salt and black pepper to taste."
+    ],
+    "nutritionalInfo": {
+      "calories": 150,
+      "protein": "4g",
+      "fat": "1g",
+      "carbohydrates": "30g"
+    },
+    "substitutions": [
+      "Add beans for extra protein.",
+      "Use chicken broth for a non-vegetarian option."
+    ],
+    "personalizedSuggestions": [
+      "Serve with a slice of crusty bread.",
+      "Add a sprinkle of fresh herbs."
+    ],
+    "mealPlanning": {
+      "groceryList": [
+        "Carrots",
+        "Celery",
+        "Potatoes",
+        "Tomatoes",
+        "Vegetable broth",
+        "Garlic",
+        "Onions",
+        "Bay leaves",
+        "Salt",
+        "Black pepper"
+      ]
+    }
+  },
+  {
+    "name": "Chicken Biryani",
+    "cuisine": "Indian",
+    "mealType": "Dinner",
+    "dietaryNeeds": "Non-Vegetarian",
+    "ingredients": [
+      "Chicken",
+      "Basmati rice",
+      "Onions",
+      "Tomatoes",
+      "Yogurt",
+      "Biryani spices",
+      "Ginger",
+      "Garlic",
+      "Cilantro",
+      "Mint",
+      "Salt",
+      "Oil"
+    ],
+    "instructions": [
+      "Marinate chicken with yogurt and spices.",
+      "Cook onions and tomatoes in a pot.",
+      "Add marinated chicken and cook until done.",
+      "In a separate pot, cook basmati rice.",
+      "Layer rice and chicken, and cook on low heat.",
+      "Garnish with cilantro and mint before serving."
+    ],
+    "nutritionalInfo": {
+      "calories": 500,
+      "protein": "35g",
+      "fat": "20g",
+      "carbohydrates": "55g"
+    },
+    "substitutions": [
+      "Use tofu for a vegetarian version.",
+      "Replace basmati rice with quinoa for a healthier option."
+    ],
+    "personalizedSuggestions": [
+      "Serve with raita or a side salad.",
+      "Top with fried onions for extra flavor."
+    ],
+    "mealPlanning": {
+      "groceryList": [
+        "Chicken",
+        "Basmati rice",
+        "Onions",
+        "Tomatoes",
+        "Yogurt",
+        "Biryani spices",
+        "Ginger",
+        "Garlic",
+        "Cilantro",
+        "Mint",
+        "Salt",
+        "Oil"
+      ]
+    }
+  },
+  {
+    "name": "Classic Caesar Salad",
+    "cuisine": "American",
+    "mealType": "Lunch",
+    "dietaryNeeds": "Vegetarian",
+    "ingredients": [
+      "Romaine lettuce",
+      "Caesar dressing",
+      "Croutons",
+      "Parmesan cheese",
+      "Lemon juice",
+      "Garlic",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Chop romaine lettuce and place in a bowl.",
+      "Add Caesar dressing and toss to coat.",
+      "Top with croutons and Parmesan cheese.",
+      "Sprinkle with lemon juice and black pepper."
+    ],
+    "nutritionalInfo": {
+      "calories": 250,
+      "protein": "7g",
+      "fat": "20g",
+      "carbohydrates": "15g"
+    },
+    "substitutions": [
+      "Use a different type of lettuce if preferred.",
+      "Replace Caesar dressing with a lighter vinaigrette."
+    ],
+    "personalizedSuggestions": [
+      "Add grilled chicken for extra protein.",
+      "Serve with a slice of garlic bread."
+    ],
+    "mealPlanning": {
+      "groceryList": [
+        "Romaine lettuce",
+        "Caesar dressing",
+        "Croutons",
+        "Parmesan cheese",
+        "Lemon juice",
+        "Garlic",
+        "Black pepper"
+      ]
+    }
+  },
+  {
+    "name": "Falafel Wrap",
+    "cuisine": "Middle Eastern",
+    "mealType": "Lunch",
+    "dietaryNeeds": "Vegetarian",
+    "ingredients": [
+      "Falafel",
+      "Pita bread",
+      "Hummus",
+      "Cucumber",
+      "Tomato",
+      "Red onion",
+      "Lettuce",
+      "Tahini sauce"
+    ],
+    "instructions": [
+      "Warm pita bread in the oven.",
+      "Spread hummus inside pita.",
+      "Add falafel, cucumber, tomato, red onion, and lettuce.",
+      "Drizzle with tahini sauce and wrap up."
+    ],
+    "nutritionalInfo": {
+      "calories": 350,
+      "protein": "12g",
+      "fat": "15g",
+      "carbohydrates": "45g"
+    },
+    "substitutions": [
+      "Use gluten-free pita for a gluten-free option.",
+      "Replace falafel with grilled chicken for a non-vegetarian version."
+    ],
+    "personalizedSuggestions": [
+      "Add pickles for extra flavor.",
+      "Serve with a side of tabbouleh."
+    ],
+    "mealPlanning": {
+      "groceryList": [
+        "Falafel",
+        "Pita bread",
+        "Hummus",
+        "Cucumber",
+        "Tomato",
+        "Red onion",
+        "Lettuce",
+        "Tahini sauce"
+      ]
+    }
+  },
+  {
+    "name": "Shrimp Scampi",
+    "cuisine": "Italian",
+    "mealType": "Dinner",
+    "dietaryNeeds": "Non-Vegetarian",
+    "ingredients": [
+      "Shrimp",
+      "Garlic",
+      "Butter",
+      "Lemon juice",
+      "White wine",
+      "Parsley",
+      "Pasta",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Cook pasta according to package instructions.",
+      "Sauté garlic in butter until fragrant.",
+      "Add shrimp and cook until pink.",
+      "Pour in white wine and lemon juice, and simmer.",
+      "Toss in cooked pasta and garnish with parsley.",
+      "Season with salt and black pepper."
+    ],
+    "nutritionalInfo": {
+      "calories": 400,
+      "protein": "25g",
+      "fat": "20g",
+      "carbohydrates": "30g"
+    },
+    "substitutions": [
+      "Use vegetable broth instead of white wine.",
+      "Replace shrimp with chicken for a different protein."
+    ],
+    "personalizedSuggestions": [
+      "Serve with a side of garlic bread.",
+      "Top with extra Parmesan cheese."
+    ],
+    "mealPlanning": {
+      "groceryList": [
+        "Shrimp",
+        "Garlic",
+        "Butter",
+        "Lemon juice",
+        "White wine",
+        "Parsley",
+        "Pasta",
+        "Salt",
+        "Black pepper"
+      ]
+    }
+  },
+  {
+    "name": "Greek Salad",
+    "cuisine": "Greek",
+    "mealType": "Lunch",
+    "dietaryNeeds": "Vegetarian",
+    "ingredients": [
+      "Cucumber",
+      "Tomatoes",
+      "Red onion",
+      "Kalamata olives",
+      "Feta cheese",
+      "Olive oil",
+      "Lemon juice",
+      "Oregano",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Chop cucumber, tomatoes, and red onion.",
+      "Combine with Kalamata olives and feta cheese.",
+      "Drizzle with olive oil and lemon juice.",
+      "Season with oregano, salt, and black pepper."
+    ],
+    "nutritionalInfo": {
+      "calories": 200,
+      "protein": "8g",
+      "fat": "15g",
+      "carbohydrates": "10g"
+    },
+    "substitutions": [
+      "Use vegan feta for a dairy-free version.",
+      "Add grilled chicken for extra protein."
+    ],
+    "personalizedSuggestions": [
+      "Serve with pita bread.",
+      "Add a sprinkle of fresh dill."
+    ],
+    "mealPlanning": {
+      "groceryList": [
+        "Cucumber",
+        "Tomatoes",
+        "Red onion",
+        "Kalamata olives",
+        "Feta cheese",
+        "Olive oil",
+        "Lemon juice",
+        "Oregano",
+        "Salt",
+        "Black pepper"
+      ]
+    }
+  },
+  {
+    "name": "Teriyaki Chicken",
+    "cuisine": "Japanese",
+    "mealType": "Dinner",
+    "dietaryNeeds": "Non-Vegetarian",
+    "ingredients": [
+      "Chicken thighs",
+      "Teriyaki sauce",
+      "Garlic",
+      "Ginger",
+      "Sesame seeds",
+      "Green onions",
+      "Rice"
+    ],
+    "instructions": [
+      "Marinate chicken in teriyaki sauce, garlic, and ginger.",
+      "Grill or pan-fry chicken until cooked through.",
+      "Serve with steamed rice.",
+      "Garnish with sesame seeds and green onions."
+    ],
+    "nutritionalInfo": {
+      "calories": 450,
+      "protein": "30g",
+      "fat": "25g",
+      "carbohydrates": "30g"
+    },
+    "substitutions": [
+      "Use tofu for a vegetarian option.",
+      "Replace teriyaki sauce with soy sauce for less sweetness."
+    ],
+    "personalizedSuggestions": [
+      "Serve with a side of steamed vegetables.",
+      "Add a sprinkle of sesame seeds for extra flavor."
+    ],
+    "mealPlanning": {
+      "groceryList": [
+        "Chicken thighs",
+        "Teriyaki sauce",
+        "Garlic",
+        "Ginger",
+        "Sesame seeds",
+        "Green onions",
+        "Rice"
+      ]
+    }
+  },
+  {
+    "name": "Pancakes",
+    "cuisine": "American",
+    "mealType": "Breakfast",
+    "dietaryNeeds": "Vegetarian",
+    "ingredients": [
+      "Flour",
+      "Baking powder",
+      "Sugar",
+      "Milk",
+      "Eggs",
+      "Butter",
+      "Vanilla extract",
+      "Salt"
+    ],
+    "instructions": [
+      "Mix flour, baking powder, sugar, and salt.",
+      "In another bowl, combine milk, eggs, and melted butter.",
+      "Combine wet and dry ingredients.",
+      "Pour batter onto a hot griddle and cook until bubbles form.",
+      "Flip and cook until golden brown."
+    ],
+    "nutritionalInfo": {
+      "calories": 350,
+      "protein": "8g",
+      "fat": "15g",
+      "carbohydrates": "45g"
+    },
+    "substitutions": [
+      "Use almond milk for a dairy-free option.",
+      "Replace eggs with flax eggs for a vegan version."
+    ],
+    "personalizedSuggestions": [
+      "Top with fresh fruit and maple syrup.",
+      "Add chocolate chips to the batter for extra indulgence."
+    ],
+    "mealPlanning": {
+      "groceryList": [
+        "Flour",
+        "Baking powder",
+        "Sugar",
+        "Milk",
+        "Eggs",
+        "Butter",
+        "Vanilla extract",
+        "Salt"
+      ]
+    }
+  },
+  {
+    "name": "Pad Thai",
+    "cuisine": "Thai",
+    "mealType": "Dinner",
+    "dietaryNeeds": "Non-Vegetarian",
+    "ingredients": [
+      "Rice noodles",
+      "Chicken",
+      "Peanuts",
+      "Eggs",
+      "Bean sprouts",
+      "Green onions",
+      "Tamarind paste",
+      "Fish sauce",
+      "Sugar",
+      "Lime",
+      "Chili flakes"
+    ],
+    "instructions": [
+      "Soak rice noodles in warm water.",
+      "Stir-fry chicken and eggs in a pan.",
+      "Add soaked noodles, tamarind paste, fish sauce, and sugar.",
+      "Cook until noodles are tender.",
+      "Stir in bean sprouts and green onions.",
+      "Top with chopped peanuts and chili flakes."
+    ],
+    "nutritionalInfo": {
+      "calories": 500,
+      "protein": "25g",
+      "fat": "20g",
+      "carbohydrates": "60g"
+    },
+    "substitutions": [
+      "Use tofu instead of chicken for a vegetarian version.",
+      "Replace fish sauce with soy sauce for a vegan option."
+    ],
+    "personalizedSuggestions": [
+      "Serve with lime wedges and extra peanuts.",
+      "Add a side of spring rolls."
+    ],
+    "mealPlanning": {
+      "groceryList": [
+        "Rice noodles",
+        "Chicken",
+        "Peanuts",
+        "Eggs",
+        "Bean sprouts",
+        "Green onions",
+        "Tamarind paste",
+        "Fish sauce",
+        "Sugar",
+        "Lime",
+        "Chili flakes"
+      ]
+    }
+  },
+  {
+    "name": "Beef Stroganoff",
+    "cuisine": "Russian",
+    "mealType": "Dinner",
+    "dietaryNeeds": "Non-Vegetarian",
+    "ingredients": [
+      "Beef",
+      "Mushrooms",
+      "Onions",
+      "Garlic",
+      "Beef broth",
+      "Sour cream",
+      "Dijon mustard",
+      "Flour",
+      "Butter",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Sauté beef in butter until browned.",
+      "Add onions and garlic, and cook until softened.",
+      "Stir in mushrooms and cook until tender.",
+      "Add flour and cook for a minute.",
+      "Pour in beef broth and bring to a simmer.",
+      "Stir in sour cream and Dijon mustard.",
+      "Season with salt and black pepper."
+    ],
+    "nutritionalInfo": {
+      "calories": 600,
+      "protein": "40g",
+      "fat": "35g",
+      "carbohydrates": "20g"
+    },
+    "substitutions": [
+      "Use chicken instead of beef for a lighter version.",
+      "Replace sour cream with Greek yogurt for a healthier option."
+    ],
+    "personalizedSuggestions": [
+      "Serve over egg noodles or rice.",
+      "Top with fresh parsley for added flavor."
+    ],
+    "mealPlanning": {
+      "groceryList": [
+        "Beef",
+        "Mushrooms",
+        "Onions",
+        "Garlic",
+        "Beef broth",
+        "Sour cream",
+        "Dijon mustard",
+        "Flour",
+        "Butter",
+        "Salt",
+        "Black pepper"
+      ]
+    }
+  }
+]

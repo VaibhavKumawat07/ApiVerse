@@ -1,0 +1,602 @@
+[
+  {
+    "region": "India",
+    "populationSize": 1380004385,
+    "growthRate": 1.02,
+    "density": 464,
+    "ageBreakdown": {
+      "children": 30,
+      "adults": 60,
+      "seniors": 10
+    },
+    "genderBreakdown": {
+      "male": 51,
+      "female": 49,
+      "other": 0
+    },
+    "ethnicBreakdown": ["Indo-Aryan", "Dravidian", "Mongoloid"],
+    "urbanPopulation": 35,
+    "ruralPopulation": 65,
+    "economicFactors": {
+      "employmentRate": 43.0,
+      "averageIncome": 2000
+    },
+    "historicalData": true,
+    "futureProjections": true,
+    "migrationPatterns": "Internal migration",
+    "educationStats": "Increasing literacy rates",
+    "healthStats": "Improving healthcare infrastructure",
+    "housingStats": "Growing urban housing demand",
+    "secureAuthentication": true
+  },
+  {
+    "region": "United States",
+    "populationSize": 331002651,
+    "growthRate": 0.71,
+    "density": 36,
+    "ageBreakdown": {
+      "children": 22,
+      "adults": 63,
+      "seniors": 15
+    },
+    "genderBreakdown": {
+      "male": 49,
+      "female": 51,
+      "other": 0
+    },
+    "ethnicBreakdown": ["White", "Black", "Asian", "Hispanic"],
+    "urbanPopulation": 83,
+    "ruralPopulation": 17,
+    "economicFactors": {
+      "employmentRate": 58.0,
+      "averageIncome": 60000
+    },
+    "historicalData": true,
+    "futureProjections": true,
+    "migrationPatterns": "International immigration",
+    "educationStats": "High literacy rates",
+    "healthStats": "Advanced healthcare system",
+    "housingStats": "Varied housing market",
+    "secureAuthentication": true
+  },
+  {
+    "region": "China",
+    "populationSize": 1439323776,
+    "growthRate": 0.39,
+    "density": 153,
+    "ageBreakdown": {
+      "children": 17,
+      "adults": 71,
+      "seniors": 12
+    },
+    "genderBreakdown": {
+      "male": 51,
+      "female": 49,
+      "other": 0
+    },
+    "ethnicBreakdown": ["Han Chinese", "Zhuang", "Hui"],
+    "urbanPopulation": 60,
+    "ruralPopulation": 40,
+    "economicFactors": {
+      "employmentRate": 61.0,
+      "averageIncome": 10000
+    },
+    "historicalData": true,
+    "futureProjections": true,
+    "migrationPatterns": "Rural to urban migration",
+    "educationStats": "Improving education system",
+    "healthStats": "Expanding healthcare coverage",
+    "housingStats": "Rapid urbanization",
+    "secureAuthentication": true
+  },
+  {
+    "region": "Brazil",
+    "populationSize": 212559417,
+    "growthRate": 0.72,
+    "density": 25,
+    "ageBreakdown": {
+      "children": 24,
+      "adults": 66,
+      "seniors": 10
+    },
+    "genderBreakdown": {
+      "male": 50,
+      "female": 50,
+      "other": 0
+    },
+    "ethnicBreakdown": ["White", "Pardo", "Black"],
+    "urbanPopulation": 86,
+    "ruralPopulation": 14,
+    "economicFactors": {
+      "employmentRate": 54.0,
+      "averageIncome": 8000
+    },
+    "historicalData": true,
+    "futureProjections": true,
+    "migrationPatterns": "Urban to suburban migration",
+    "educationStats": "Increasing school enrollment",
+    "healthStats": "Improving public health",
+    "housingStats": "Rising housing market",
+    "secureAuthentication": true
+  },
+  {
+    "region": "Russia",
+    "populationSize": 145912025,
+    "growthRate": -0.2,
+    "density": 9,
+    "ageBreakdown": {
+      "children": 18,
+      "adults": 65,
+      "seniors": 17
+    },
+    "genderBreakdown": {
+      "male": 46,
+      "female": 54,
+      "other": 0
+    },
+    "ethnicBreakdown": ["Russian", "Tatar", "Ukrainian"],
+    "urbanPopulation": 74,
+    "ruralPopulation": 26,
+    "economicFactors": {
+      "employmentRate": 59.0,
+      "averageIncome": 12000
+    },
+    "historicalData": true,
+    "futureProjections": true,
+    "migrationPatterns": "Internal migration",
+    "educationStats": "High literacy rates",
+    "healthStats": "Good healthcare system",
+    "housingStats": "Stable housing market",
+    "secureAuthentication": true
+  },
+  {
+    "region": "Germany",
+    "populationSize": 83783942,
+    "growthRate": -0.06,
+    "density": 232,
+    "ageBreakdown": {
+      "children": 13,
+      "adults": 65,
+      "seniors": 22
+    },
+    "genderBreakdown": {
+      "male": 49,
+      "female": 51,
+      "other": 0
+    },
+    "ethnicBreakdown": ["German", "Turkish", "Polish"],
+    "urbanPopulation": 77,
+    "ruralPopulation": 23,
+    "economicFactors": {
+      "employmentRate": 59.0,
+      "averageIncome": 50000
+    },
+    "historicalData": true,
+    "futureProjections": true,
+    "migrationPatterns": "International immigration",
+    "educationStats": "High education standards",
+    "healthStats": "Excellent healthcare system",
+    "housingStats": "Varied housing market",
+    "secureAuthentication": true
+  },
+  {
+    "region": "Japan",
+    "populationSize": 126476461,
+    "growthRate": -0.3,
+    "density": 347,
+    "ageBreakdown": {
+      "children": 13,
+      "adults": 60,
+      "seniors": 27
+    },
+    "genderBreakdown": {
+      "male": 48,
+      "female": 52,
+      "other": 0
+    },
+    "ethnicBreakdown": ["Japanese", "Korean", "Chinese"],
+    "urbanPopulation": 91,
+    "ruralPopulation": 9,
+    "economicFactors": {
+      "employmentRate": 60.0,
+      "averageIncome": 42000
+    },
+    "historicalData": true,
+    "futureProjections": true,
+    "migrationPatterns": "Low immigration rates",
+    "educationStats": "High literacy rates",
+    "healthStats": "Advanced healthcare system",
+    "housingStats": "Stable housing market",
+    "secureAuthentication": true
+  },
+  {
+    "region": "Australia",
+    "populationSize": 25499884,
+    "growthRate": 1.18,
+    "density": 3,
+    "ageBreakdown": {
+      "children": 18,
+      "adults": 65,
+      "seniors": 17
+    },
+    "genderBreakdown": {
+      "male": 50,
+      "female": 50,
+      "other": 0
+    },
+    "ethnicBreakdown": ["Australian", "English", "Irish"],
+    "urbanPopulation": 86,
+    "ruralPopulation": 14,
+    "economicFactors": {
+      "employmentRate": 60.0,
+      "averageIncome": 55000
+    },
+    "historicalData": true,
+    "futureProjections": true,
+    "migrationPatterns": "High immigration rates",
+    "educationStats": "High literacy rates",
+    "healthStats": "High-quality healthcare system",
+    "housingStats": "Growing urban areas",
+    "secureAuthentication": true
+  },
+  {
+    "region": "France",
+    "populationSize": 65273511,
+    "growthRate": 0.2,
+    "density": 122,
+    "ageBreakdown": {
+      "children": 18,
+      "adults": 65,
+      "seniors": 17
+    },
+    "genderBreakdown": {
+      "male": 48,
+      "female": 52,
+      "other": 0
+    },
+    "ethnicBreakdown": ["French", "North African", "Other European"],
+    "urbanPopulation": 80,
+    "ruralPopulation": 20,
+    "economicFactors": {
+      "employmentRate": 57.0,
+      "averageIncome": 42000
+    },
+    "historicalData": true,
+    "futureProjections": true,
+    "migrationPatterns": "Internal migration",
+    "educationStats": "High literacy rates",
+    "healthStats": "Universal healthcare system",
+    "housingStats": "Diverse housing market",
+    "secureAuthentication": true
+  },
+  {
+    "region": "United Kingdom",
+    "populationSize": 67886011,
+    "growthRate": 0.59,
+    "density": 275,
+    "ageBreakdown": {
+      "children": 19,
+      "adults": 64,
+      "seniors": 17
+    },
+    "genderBreakdown": {
+      "male": 49,
+      "female": 51,
+      "other": 0
+    },
+    "ethnicBreakdown": ["British", "Irish", "Asian"],
+    "urbanPopulation": 84,
+    "ruralPopulation": 16,
+    "economicFactors": {
+      "employmentRate": 59.0,
+      "averageIncome": 45000
+    },
+    "historicalData": true,
+    "futureProjections": true,
+    "migrationPatterns": "International immigration",
+    "educationStats": "High literacy rates",
+    "healthStats": "National Health Service",
+    "housingStats": "Strong housing market",
+    "secureAuthentication": true
+  },
+  {
+    "region": "Italy",
+    "populationSize": 60461826,
+    "growthRate": -0.15,
+    "density": 206,
+    "ageBreakdown": {
+      "children": 14,
+      "adults": 63,
+      "seniors": 23
+    },
+    "genderBreakdown": {
+      "male": 48,
+      "female": 52,
+      "other": 0
+    },
+    "ethnicBreakdown": ["Italian", "Sicilian", "Sardinian"],
+    "urbanPopulation": 69,
+    "ruralPopulation": 31,
+    "economicFactors": {
+      "employmentRate": 53.0,
+      "averageIncome": 35000
+    },
+    "historicalData": true,
+    "futureProjections": true,
+    "migrationPatterns": "Internal migration",
+    "educationStats": "High literacy rates",
+    "healthStats": "Public healthcare system",
+    "housingStats": "Varied housing market",
+    "secureAuthentication": true
+  },
+  {
+    "region": "Canada",
+    "populationSize": 37742154,
+    "growthRate": 1.1,
+    "density": 4,
+    "ageBreakdown": {
+      "children": 20,
+      "adults": 64,
+      "seniors": 16
+    },
+    "genderBreakdown": {
+      "male": 49,
+      "female": 51,
+      "other": 0
+    },
+    "ethnicBreakdown": ["Canadian", "English", "French"],
+    "urbanPopulation": 81,
+    "ruralPopulation": 19,
+    "economicFactors": {
+      "employmentRate": 61.0,
+      "averageIncome": 48000
+    },
+    "historicalData": true,
+    "futureProjections": true,
+    "migrationPatterns": "International immigration",
+    "educationStats": "High literacy rates",
+    "healthStats": "Universal healthcare system",
+    "housingStats": "Stable housing market",
+    "secureAuthentication": true
+  },
+  {
+    "region": "Mexico",
+    "populationSize": 128932753,
+    "growthRate": 1.06,
+    "density": 66,
+    "ageBreakdown": {
+      "children": 25,
+      "adults": 65,
+      "seniors": 10
+    },
+    "genderBreakdown": {
+      "male": 50,
+      "female": 50,
+      "other": 0
+    },
+    "ethnicBreakdown": ["Mestizo", "Indigenous", "Other"],
+    "urbanPopulation": 80,
+    "ruralPopulation": 20,
+    "economicFactors": {
+      "employmentRate": 55.0,
+      "averageIncome": 9000
+    },
+    "historicalData": true,
+    "futureProjections": true,
+    "migrationPatterns": "Internal and international migration",
+    "educationStats": "Increasing literacy rates",
+    "healthStats": "Improving healthcare access",
+    "housingStats": "Growing urban areas",
+    "secureAuthentication": true
+  },
+  {
+    "region": "Nigeria",
+    "populationSize": 206139589,
+    "growthRate": 2.58,
+    "density": 226,
+    "ageBreakdown": {
+      "children": 43,
+      "adults": 54,
+      "seniors": 3
+    },
+    "genderBreakdown": {
+      "male": 51,
+      "female": 49,
+      "other": 0
+    },
+    "ethnicBreakdown": ["Hausa", "Yoruba", "Igbo"],
+    "urbanPopulation": 52,
+    "ruralPopulation": 48,
+    "economicFactors": {
+      "employmentRate": 47.0,
+      "averageIncome": 5000
+    },
+    "historicalData": true,
+    "futureProjections": true,
+    "migrationPatterns": "Rural to urban migration",
+    "educationStats": "Improving educational access",
+    "healthStats": "Expanding healthcare services",
+    "housingStats": "Growing urban housing",
+    "secureAuthentication": true
+  },
+  {
+    "region": "South Korea",
+    "populationSize": 51269185,
+    "growthRate": -0.09,
+    "density": 527,
+    "ageBreakdown": {
+      "children": 13,
+      "adults": 72,
+      "seniors": 15
+    },
+    "genderBreakdown": {
+      "male": 49,
+      "female": 51,
+      "other": 0
+    },
+    "ethnicBreakdown": ["Korean"],
+    "urbanPopulation": 81,
+    "ruralPopulation": 19,
+    "economicFactors": {
+      "employmentRate": 60.0,
+      "averageIncome": 35000
+    },
+    "historicalData": true,
+    "futureProjections": true,
+    "migrationPatterns": "Urban to suburban migration",
+    "educationStats": "High education standards",
+    "healthStats": "Advanced healthcare system",
+    "housingStats": "High urban density",
+    "secureAuthentication": true
+  },
+  {
+    "region": "Argentina",
+    "populationSize": 45195774,
+    "growthRate": 0.93,
+    "density": 17,
+    "ageBreakdown": {
+      "children": 25,
+      "adults": 63,
+      "seniors": 12
+    },
+    "genderBreakdown": {
+      "male": 49,
+      "female": 51,
+      "other": 0
+    },
+    "ethnicBreakdown": ["European", "Mestizo", "Indigenous"],
+    "urbanPopulation": 92,
+    "ruralPopulation": 8,
+    "economicFactors": {
+      "employmentRate": 55.0,
+      "averageIncome": 10000
+    },
+    "historicalData": true,
+    "futureProjections": true,
+    "migrationPatterns": "Internal migration",
+    "educationStats": "High literacy rates",
+    "healthStats": "Universal healthcare system",
+    "housingStats": "Urbanization trends",
+    "secureAuthentication": true
+  },
+  {
+    "region": "South Africa",
+    "populationSize": 59308690,
+    "growthRate": 1.28,
+    "density": 49,
+    "ageBreakdown": {
+      "children": 29,
+      "adults": 65,
+      "seniors": 6
+    },
+    "genderBreakdown": {
+      "male": 49,
+      "female": 51,
+      "other": 0
+    },
+    "ethnicBreakdown": ["Black African", "White", "Coloured"],
+    "urbanPopulation": 67,
+    "ruralPopulation": 33,
+    "economicFactors": {
+      "employmentRate": 43.0,
+      "averageIncome": 11000
+    },
+    "historicalData": true,
+    "futureProjections": true,
+    "migrationPatterns": "Internal migration",
+    "educationStats": "Increasing educational attainment",
+    "healthStats": "Diverse healthcare system",
+    "housingStats": "Growing urban centers",
+    "secureAuthentication": true
+  },
+  {
+    "region": "Indonesia",
+    "populationSize": 273523615,
+    "growthRate": 1.07,
+    "density": 151,
+    "ageBreakdown": {
+      "children": 28,
+      "adults": 66,
+      "seniors": 6
+    },
+    "genderBreakdown": {
+      "male": 50,
+      "female": 50,
+      "other": 0
+    },
+    "ethnicBreakdown": ["Javanese", "Sundanese", "Malay"],
+    "urbanPopulation": 56,
+    "ruralPopulation": 44,
+    "economicFactors": {
+      "employmentRate": 56.0,
+      "averageIncome": 4000
+    },
+    "historicalData": true,
+    "futureProjections": true,
+    "migrationPatterns": "Rural to urban migration",
+    "educationStats": "Improving literacy rates",
+    "healthStats": "Expanding healthcare access",
+    "housingStats": "Growing urbanization",
+    "secureAuthentication": true
+  },
+  {
+    "region": "Pakistan",
+    "populationSize": 220892340,
+    "growthRate": 1.9,
+    "density": 287,
+    "ageBreakdown": {
+      "children": 35,
+      "adults": 60,
+      "seniors": 5
+    },
+    "genderBreakdown": {
+      "male": 51,
+      "female": 49,
+      "other": 0
+    },
+    "ethnicBreakdown": ["Punjabi", "Sindhi", "Pashtun"],
+    "urbanPopulation": 37,
+    "ruralPopulation": 63,
+    "economicFactors": {
+      "employmentRate": 50.0,
+      "averageIncome": 2500
+    },
+    "historicalData": true,
+    "futureProjections": true,
+    "migrationPatterns": "Internal migration",
+    "educationStats": "Improving educational access",
+    "healthStats": "Developing healthcare system",
+    "housingStats": "Urban growth",
+    "secureAuthentication": true
+  },
+  {
+    "region": "Egypt",
+    "populationSize": 102334404,
+    "growthRate": 1.77,
+    "density": 103,
+    "ageBreakdown": {
+      "children": 33,
+      "adults": 62,
+      "seniors": 5
+    },
+    "genderBreakdown": {
+      "male": 51,
+      "female": 49,
+      "other": 0
+    },
+    "ethnicBreakdown": ["Egyptian", "Bedouin", "Nubian"],
+    "urbanPopulation": 43,
+    "ruralPopulation": 57,
+    "economicFactors": {
+      "employmentRate": 45.0,
+      "averageIncome": 3000
+    },
+    "historicalData": true,
+    "futureProjections": true,
+    "migrationPatterns": "Rural to urban migration",
+    "educationStats": "Increasing literacy rates",
+    "healthStats": "Developing healthcare infrastructure",
+    "housingStats": "Expanding urban areas",
+    "secureAuthentication": true
+  }
+]

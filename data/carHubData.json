@@ -1,0 +1,377 @@
+[
+  {
+    "make": "Maruti Suzuki",
+    "model": "Swift",
+    "year": 2024,
+    "engine_type": "Petrol",
+    "horsepower": 89,
+    "fuel_efficiency": 23.2,
+    "price": 700000,
+    "trims": [
+      { "name": "VXi", "price": 700000 },
+      { "name": "ZXi", "price": 800000 },
+      { "name": "ZDi", "price": 900000 }
+    ],
+    "safety_ratings": "4-star",
+    "features": ["ABS", "Airbags", "Power Steering"],
+    "dealerships": ["Maruti Suzuki Arena", "Maruti Suzuki Nexa"],
+    "availability": "Available"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Creta",
+    "year": 2024,
+    "engine_type": "Diesel",
+    "horsepower": 113,
+    "fuel_efficiency": 21.5,
+    "price": 1200000,
+    "trims": [
+      { "name": "E", "price": 1200000 },
+      { "name": "S", "price": 1300000 },
+      { "name": "SX", "price": 1400000 },
+      { "name": "SX(O)", "price": 1500000 }
+    ],
+    "safety_ratings": "5-star",
+    "features": ["ABS", "Traction Control", "Leather Seats"],
+    "dealerships": ["Hyundai Signature", "Hyundai Elite"],
+    "availability": "Available"
+  },
+  {
+    "make": "Toyota",
+    "model": "Fortuner",
+    "year": 2024,
+    "engine_type": "Diesel",
+    "horsepower": 201,
+    "fuel_efficiency": 12.9,
+    "price": 3200000,
+    "trims": [
+      { "name": "2.7 4X2", "price": 3200000 },
+      { "name": "2.8 4X4", "price": 3500000 }
+    ],
+    "safety_ratings": "5-star",
+    "features": ["ABS", "Cruise Control", "Leather Upholstery"],
+    "dealerships": ["Toyota Kirloskar", "Toyota Goldstar"],
+    "availability": "Available"
+  },
+  {
+    "make": "Honda",
+    "model": "City",
+    "year": 2024,
+    "engine_type": "Petrol",
+    "horsepower": 119,
+    "fuel_efficiency": 17.8,
+    "price": 1050000,
+    "trims": [
+      { "name": "SV", "price": 1050000 },
+      { "name": "VX", "price": 1150000 },
+      { "name": "ZX", "price": 1250000 }
+    ],
+    "safety_ratings": "4-star",
+    "features": ["ABS", "Sunroof", "Cruise Control"],
+    "dealerships": ["Honda Cars India", "Honda Elite"],
+    "availability": "Available"
+  },
+  {
+    "make": "Ford",
+    "model": "EcoSport",
+    "year": 2024,
+    "engine_type": "Petrol",
+    "horsepower": 123,
+    "fuel_efficiency": 15.0,
+    "price": 850000,
+    "trims": [
+      { "name": "Trend", "price": 850000 },
+      { "name": "Titanium", "price": 950000 },
+      { "name": "Titanium+", "price": 1050000 }
+    ],
+    "safety_ratings": "4-star",
+    "features": ["ABS", "Electronic Stability Control", "Navigation System"],
+    "dealerships": ["Ford India", "Ford Prestige"],
+    "availability": "Available"
+  },
+  {
+    "make": "Kia",
+    "model": "Seltos",
+    "year": 2024,
+    "engine_type": "Petrol",
+    "horsepower": 115,
+    "fuel_efficiency": 18.4,
+    "price": 950000,
+    "trims": [
+      { "name": "HTE", "price": 950000 },
+      { "name": "HTK", "price": 1050000 },
+      { "name": "HTK+", "price": 1150000 },
+      { "name": "HTX", "price": 1250000 }
+    ],
+    "safety_ratings": "5-star",
+    "features": ["ABS", "Rear Parking Sensors", "Touchscreen Infotainment"],
+    "dealerships": ["Kia Motors India", "Kia Galaxy"],
+    "availability": "Available"
+  },
+  {
+    "make": "Renault",
+    "model": "Duster",
+    "year": 2024,
+    "engine_type": "Diesel",
+    "horsepower": 108,
+    "fuel_efficiency": 19.0,
+    "price": 1100000,
+    "trims": [
+      { "name": "RXE", "price": 1100000 },
+      { "name": "RXL", "price": 1200000 },
+      { "name": "RXZ", "price": 1300000 }
+    ],
+    "safety_ratings": "4-star",
+    "features": ["ABS", "Rear AC Vents", "Power Windows"],
+    "dealerships": ["Renault India", "Renault Prestige"],
+    "availability": "Available"
+  },
+  {
+    "make": "Mahindra",
+    "model": "XUV300",
+    "year": 2024,
+    "engine_type": "Petrol",
+    "horsepower": 115,
+    "fuel_efficiency": 17.0,
+    "price": 900000,
+    "trims": [
+      { "name": "W4", "price": 900000 },
+      { "name": "W6", "price": 1000000 },
+      { "name": "W8", "price": 1100000 }
+    ],
+    "safety_ratings": "5-star",
+    "features": ["ABS", "Dual Airbags", "Leather Steering Wheel"],
+    "dealerships": ["Mahindra & Mahindra", "Mahindra Premium"],
+    "availability": "Available"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Taigun",
+    "year": 2024,
+    "engine_type": "Petrol",
+    "horsepower": 150,
+    "fuel_efficiency": 16.8,
+    "price": 1100000,
+    "trims": [
+      { "name": "Comfortline", "price": 1100000 },
+      { "name": "Highline", "price": 1200000 },
+      { "name": "Topline", "price": 1300000 }
+    ],
+    "safety_ratings": "4-star",
+    "features": ["ABS", "Front Parking Sensors", "Infotainment System"],
+    "dealerships": ["Volkswagen India", "Volkswagen Elite"],
+    "availability": "Available"
+  },
+  {
+    "make": "Nissan",
+    "model": "Kicks",
+    "year": 2024,
+    "engine_type": "Petrol",
+    "horsepower": 154,
+    "fuel_efficiency": 15.0,
+    "price": 1200000,
+    "trims": [
+      { "name": "XL", "price": 1200000 },
+      { "name": "XV", "price": 1300000 },
+      { "name": "XV Premium", "price": 1400000 }
+    ],
+    "safety_ratings": "4-star",
+    "features": ["ABS", "Keyless Entry", "Climate Control"],
+    "dealerships": ["Nissan India", "Nissan Goldstar"],
+    "availability": "Available"
+  },
+  {
+    "make": "Tata",
+    "model": "Harrier",
+    "year": 2024,
+    "engine_type": "Diesel",
+    "horsepower": 168,
+    "fuel_efficiency": 17.0,
+    "price": 1400000,
+    "trims": [
+      { "name": "XE", "price": 1400000 },
+      { "name": "XM", "price": 1500000 },
+      { "name": "XT", "price": 1600000 },
+      { "name": "XTA", "price": 1700000 },
+      { "name": "XZ", "price": 1800000 },
+      { "name": "XZ+", "price": 1900000 }
+    ],
+    "safety_ratings": "5-star",
+    "features": ["ABS", "Traction Control", "Leather Seats"],
+    "dealerships": ["Tata Motors", "Tata Premium"],
+    "availability": "Available"
+  },
+  {
+    "make": "Skoda",
+    "model": "Slavia",
+    "year": 2024,
+    "engine_type": "Petrol",
+    "horsepower": 115,
+    "fuel_efficiency": 18.0,
+    "price": 1050000,
+    "trims": [
+      { "name": "Active", "price": 1050000 },
+      { "name": "Ambition", "price": 1150000 },
+      { "name": "Style", "price": 1250000 }
+    ],
+    "safety_ratings": "4-star",
+    "features": ["ABS", "Rear Parking Sensors", "Automatic Climate Control"],
+    "dealerships": ["Skoda India", "Skoda Elite"],
+    "availability": "Available"
+  },
+  {
+    "make": "MG",
+    "model": "Astor",
+    "year": 2024,
+    "engine_type": "Petrol",
+    "horsepower": 138,
+    "fuel_efficiency": 14.5,
+    "price": 1150000,
+    "trims": [
+      { "name": "Style", "price": 1150000 },
+      { "name": "Super", "price": 1250000 },
+      { "name": "Sharp", "price": 1350000 }
+    ],
+    "safety_ratings": "5-star",
+    "features": ["ABS", "360-Degree Camera", "Leather Upholstery"],
+    "dealerships": ["MG Motors", "MG Premium"],
+    "availability": "Available"
+  },
+  {
+    "make": "Audi",
+    "model": "Q3",
+    "year": 2024,
+    "engine_type": "Petrol",
+    "horsepower": 228,
+    "fuel_efficiency": 14.0,
+    "price": 4300000,
+    "trims": [
+      { "name": "Premium", "price": 4300000 },
+      { "name": "Technology", "price": 4700000 }
+    ],
+    "safety_ratings": "5-star",
+    "features": ["ABS", "Adaptive Cruise Control", "Panoramic Sunroof"],
+    "dealerships": ["Audi India", "Audi Elite"],
+    "availability": "Available"
+  },
+  {
+    "make": "BMW",
+    "model": "X1",
+    "year": 2024,
+    "engine_type": "Petrol",
+    "horsepower": 154,
+    "fuel_efficiency": 14.0,
+    "price": 4000000,
+    "trims": [
+      { "name": "X-Line", "price": 4000000 },
+      { "name": "M Sport", "price": 4300000 }
+    ],
+    "safety_ratings": "5-star",
+    "features": ["ABS", "Head-Up Display", "Navigation System"],
+    "dealerships": ["BMW India", "BMW Prestige"],
+    "availability": "Available"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "A-Class",
+    "year": 2024,
+    "engine_type": "Petrol",
+    "horsepower": 188,
+    "fuel_efficiency": 13.5,
+    "price": 3500000,
+    "trims": [
+      { "name": "A 180", "price": 3500000 },
+      { "name": "A 200", "price": 3700000 },
+      { "name": "A 250", "price": 4000000 }
+    ],
+    "safety_ratings": "5-star",
+    "features": ["ABS", "Blind Spot Monitoring", "Touchscreen Infotainment"],
+    "dealerships": ["Mercedes-Benz India", "Mercedes-Benz Elite"],
+    "availability": "Available"
+  },
+  {
+    "make": "Porsche",
+    "model": "Macan",
+    "year": 2024,
+    "engine_type": "Petrol",
+    "horsepower": 265,
+    "fuel_efficiency": 12.0,
+    "price": 6000000,
+    "trims": [
+      { "name": "Base", "price": 6000000 },
+      { "name": "S", "price": 6500000 },
+      { "name": "GTS", "price": 7000000 }
+    ],
+    "safety_ratings": "5-star",
+    "features": ["ABS", "Adaptive Cruise Control", "Panoramic Roof"],
+    "dealerships": ["Porsche India", "Porsche Elite"],
+    "availability": "Available"
+  },
+  {
+    "make": "Land Rover",
+    "model": "Range Rover Evoque",
+    "year": 2024,
+    "engine_type": "Diesel",
+    "horsepower": 177,
+    "fuel_efficiency": 11.5,
+    "price": 7000000,
+    "trims": [
+      { "name": "S", "price": 7000000 },
+      { "name": "SE", "price": 7500000 },
+      { "name": "HSE", "price": 8000000 }
+    ],
+    "safety_ratings": "5-star",
+    "features": ["ABS", "Hill Descent Control", "Leather Upholstery"],
+    "dealerships": ["Land Rover India", "Land Rover Prestige"],
+    "availability": "Available"
+  },
+  {
+    "make": "Jaguar",
+    "model": "F-Pace",
+    "year": 2024,
+    "engine_type": "Diesel",
+    "horsepower": 246,
+    "fuel_efficiency": 10.0,
+    "price": 8000000,
+    "trims": [
+      { "name": "Pure", "price": 8000000 },
+      { "name": "Prestige", "price": 8500000 },
+      { "name": "R-Sport", "price": 9000000 }
+    ],
+    "safety_ratings": "5-star",
+    "features": ["ABS", "Adaptive Cruise Control", "Navigation System"],
+    "dealerships": ["Jaguar India", "Jaguar Elite"],
+    "availability": "Available"
+  },
+  {
+    "make": "Ferrari",
+    "model": "Portofino",
+    "year": 2024,
+    "engine_type": "Petrol",
+    "horsepower": 612,
+    "fuel_efficiency": 8.5,
+    "price": 35000000,
+    "trims": [{ "name": "Base", "price": 35000000 }],
+    "safety_ratings": "5-star",
+    "features": ["ABS", "Adaptive Cruise Control", "Leather Upholstery"],
+    "dealerships": ["Ferrari India", "Ferrari Prestige"],
+    "availability": "Available"
+  },
+  {
+    "make": "Lamborghini",
+    "model": "Huracan",
+    "year": 2024,
+    "engine_type": "Petrol",
+    "horsepower": 631,
+    "fuel_efficiency": 7.5,
+    "price": 45000000,
+    "trims": [
+      { "name": "Evo", "price": 45000000 },
+      { "name": "Performante", "price": 50000000 }
+    ],
+    "safety_ratings": "5-star",
+    "features": ["ABS", "Adaptive Cruise Control", "Navigation System"],
+    "dealerships": ["Lamborghini India", "Lamborghini Elite"],
+    "availability": "Available"
+  }
+]

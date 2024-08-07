@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/css/signup/signup.css" />
+    <link rel="stylesheet" href="/css/signup/signupQueires.css" />
+    <script defer src="/js/bundle.js"></script>
+    <title>ApiVerse | Signup</title>
+  </head>
+  <body>
+    <header class="header">
+      <img src="/img/APiVerse.png" class="apiVerse-logo" />
+      <nav></nav>
+    </header>
+    <section>
+      <div class="container page-cnt">
+        <h2 class="tagline">Connecting APIs, <span>Connecting World</span></h2>
+        <form class="form-cnt">
+          <input
+            id="username"
+            type="text"
+            placeholder="Name"
+            class="username"
+            required
+          />
+          <input id="email" type="email" placeholder="Email" required />
+
+          <input
+            id="password"
+            type="password"
+            placeholder="Password"
+            required
+          />
+          <input
+            id="confrim-password"
+            type="password"
+            placeholder="Confirm Password"
+            required
+          />
+          <input
+            type="submit"
+            class="submit-btn"
+            id="sign-btn"
+            value="Sign up"
+          />
+        </form>
+        <span class="text-p">or</span>
+        <span class="text-p">
+          Already having an account.
+          <a href="/apiVerse/login" class="login-class">Log in</a>
+        </span>
+      </div>
+    </section>
+
+    <div class="modal hidden">
+      <button class="close-modal">&times;</button>
+      <h1 class="modal-heading">Something Went Wrong💥</h1>
+      <p class="modal-text">.</p>
+    </div>
+    <div class="overlay hidden"></div>
+  </body>
+</html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" href="/img/fav-icon.png" />
+    <link rel="stylesheet" href="/css/profile/profile.css" />
+    <link rel="stylesheet" href="/css/profile/profileQueries.css" />
+    <script defer src="/js/profile.js"></script>
+    <script defer src="/js/bundle.js"></script>
+    <title>ApiVerse | Profile</title>
+  </head>
+  <body>
+    <header class="header">
+      <img src="/img/APiVerse.png" class="apiVerse-logo" />
+      <nav></nav>
+    </header>
+    <section>
+      <div class="container page-cnt " id="user-profile">
+        <h2 class="tagline">Connecting APIs, <span>Connecting World</span></h2>
+        <form class="form-cnt">
+          <input id="name" value="" readonly />
+          <input id="email" value="" readonly />
+          <input type="submit" class="submit-btn" value="Logout" id="logout" />
+        </form>
+        <a href="#" class="forgot" id="username">Edit Username</a>
+        <a href="#" class="forgot" id="update-password">Update Password</a>
+        <span class="text-p">
+          <a href="/apiVerse/index" class="signup-class" >Go To Homepage</a>
+        </span>
+      </div>
+
+      <div class="container page-cnt hide" id="edit-profile">
+        <h2 class="tagline">Connecting APIs, <span>Connecting World</span></h2>
+        <form class="form-cnt">
+          <input id="text" type="text" value="" required />
+          <input type="submit" class="submit-btn" value="Update" id="save-user-name" />
+        </form>
+        <a href="#" class="forgot" id="update-password-2">Update Password</a>
+        <span class="text-p">
+          <a href="/apiVerse/index" class="signup-class">Go To Homepage</a>
+        </span>
+      </div>
+    </section>
+
+    <div class="container page-cnt hide" id="edit-password">
+      <h2 class="tagline">Connecting APIs, <span>Connecting World</span></h2>
+      <form class="form-cnt">
+        <input id="password-old" type="password" placeholder="Old Password" required />
+        <input id="new-password" type="password" placeholder="New Password" required />
+
+        <input type="submit" class="submit-btn" value="Update" id="change-password"/>
+      </form>
+      <a href="/apiVerse/forgotPassword" class="forgot">Forgot Password</a>
+      <span class="text-p">
+        <a href="/apiVerse/index" class="signup-class">Go To Homepage</a>
+      </span>
+    </div>
+  </section>
+
+    <div class="modal hidden">
+      <button class="close-modal">&times;</button>
+      <h1 class="modal-heading">Something Went Wrong💥</h1>
+      <p class="modal-text"></p>
+    </div>
+    <div class="overlay hidden"></div>
+  </body>
+</html>

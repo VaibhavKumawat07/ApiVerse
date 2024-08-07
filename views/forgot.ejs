@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" href="/img/fav-icon.png" />
+    <link rel="stylesheet" href="/css/forgot-password/forgot.css" />
+    <link rel="stylesheet" href="/css/forgot-password/forgotQueries.css" />
+    <script defer src="/js/forgot.js"></script>
+    <script defer src="/js/bundle.js"></script>
+    <title>ApiVerse | ForgotPassword</title>
+  </head>
+  <body>
+    <header class="header">
+      <img src="/img/APiVerse.png" class="apiVerse-logo" />
+      <nav></nav>
+    </header>
+    <section>
+      <div class="container page-cnt " id="user-profile">
+        <h2 class="tagline">Connecting APIs, <span>Connecting World</span></h2>
+        <form class="form-cnt">
+          <input id="email" placeholder="Please Enter Your Email"  />
+          <input type="submit" class="submit-btn" value="Send Email" id="send-email" />
+        </form>                
+      </div>
+
+    <div class="modal hidden">
+      <button class="close-modal">&times;</button>
+      <h1 class="model-heading">Something Went Wrong💥</h1>
+      <p class="model-text"></p>
+    </div>
+    <div class="overlay hidden"></div>
+  </body>
+</html>
