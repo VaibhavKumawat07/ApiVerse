@@ -10,7 +10,7 @@ export const pageData = async function () {
     const val = window.location.href;
     const arr = val.split("value=");
     const id = arr[1];
-    const URL = `http://127.0.0.1:3000/apiVerse/v1/api/${id}`;
+    const URL = `/apiVerse/v1/api/${id}`;
     const res = await axios.get(URL);
     const value = res.data.message[0];
     const desc = value.description;

@@ -6,7 +6,7 @@ const authController = require("./../controller/authController");
 
 router.route("/apiVerse/signup").get(viewController.renderSign);
 router.route("/").get(viewController.renderIndex);
-router.route("/apiVerse/index").get(viewController.renderIndex);
+router.route("/apiVerse/index").get(viewController.renderIndex2);
 router.route("/apiVerse/login").get(viewController.renderLogin);
 router.route("/apiVerse/resetPassword/:token").get(viewController.renderReset);
 router.route("/apiVerse/forgotPassword").get(viewController.renderForgot);

@@ -14,38 +14,14 @@ const globalErrorHandler = require("./controller/errorController");
 const AppError = require("./utils/appError");
 const cookieParser = require("cookie-parser");
 const path = require("path");
-const helmet = require("helmet");
-const mongoSanitize = require("express-mongo-sanitize");
-const xss = require("xss-clean");
-const cors = require("cors");
-const hpp = require("hpp");
-const compression = require("compression");
 
 app.set("view engine", "ejs");
 app.set("views", path.join(__dirname, "views"));
-app.use(cors());
-app.options("*", cors());
-app.use(helmet());
 app.use(express.static(path.join(__dirname, "public")));
 app.use(express.urlencoded({ extended: true }));
 
 app.use(express.json());
 app.use(cookieParser());
-
-// Data sanitization against NoSQL query injection
-app.use(mongoSanitize());
-
-// Data sanitization against XSS
-app.use(xss());
-
-// Prevent parameter pollution
-app.use(
-  hpp({
-    whitelist: ["page", "limit", "limitFields"],
-  })
-);
-
-app.use(compression());
 
 app.use("/", viewRoutes);
 

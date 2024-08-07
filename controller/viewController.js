@@ -8,6 +8,9 @@ exports.renderLogin = (req, res, next) => {
   res.render("login");
 };
 exports.renderIndex = (req, res, next) => {
+  res.redirect("/apiVerse/index");
+};
+exports.renderIndex2 = (req, res, next) => {
   res.render("index");
 };
 exports.renderApi = (req, res, next) => {
