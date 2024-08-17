@@ -1,0 +1,14 @@
+NODE_ENV=development
+PORT=3000
+USERNAME=vaibhav
+DATABASE_PASSWORD=hLlTqdEiMUtOlM6T
+DATABASE=mongodb+srv://vaibhav:<PASSWORD>@apiverse.stxxw6d.mongodb.net/ApiVerse?retryWrites=true&w=majority
+PORT = 3000
+
+JWT_SECRET = my-ultra-secure-and--ulit-lon--secret
+JWT_EXPIRES_IN = 1d
+
+EMAIL_USERNAME=vaibhavkumawat474@gmail.com
+EMAIL_PASSWORD=iapewmolsfcebixk
+EMAIL_HOST=smtp.gmail.com
+EMAIL_PORT=587
